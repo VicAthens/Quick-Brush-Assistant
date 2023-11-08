@@ -5,8 +5,10 @@
 // @version      0.1
 // @description  助力业务审核
 // @author       熊喵呜哇
-// @match        http://*/*
+// @match        https://tonghang.woa.com/v2q/qq_channel_live/audit/100000
+// @match        https://tonghang.woa.com/v2q/qq_channel_screen_share/audit/100000
 // @icon         https://qq-web.cdn-go.cn//im.qq.com_new/7bce6d6d/asset/favicon.ico
+// @license      GPL-3.0 License
 // @grant        none
 // ==/UserScript==
 
