@@ -39,6 +39,10 @@
         t = setInterval(() => {
             let len = document.getElementsByTagName('form').length;
             if (len) {
+                //自动点击免审
+                document.querySelector(".ant-select-selection__rendered").click()
+                document.querySelectorAll(".ant-select-dropdown-menu-item")[1].click()
+                //免审模块结束
                 f = false;
                 clearInterval(t);
                 return;
@@ -79,6 +83,7 @@
         if (e.button === 2 || e.keyCode === 32) {
             clearInterval(t);
             f = false;
+
         }
     });
 
