@@ -1,4 +1,3 @@
-
 // ==UserScript==
 // @name         直播and屏幕共享 速刷助手
 // @namespace    http://tampermonkey.net/
