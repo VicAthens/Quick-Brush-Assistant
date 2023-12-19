@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         直播and屏幕共享 速刷助手
+// @name         速刷助手
 // @namespace    http://tampermonkey.net/
-// @version      0.3
+// @version      0.4
 // @description  助力业务审核
 // @author       熊喵呜哇
 // @match        https://tonghang.woa.com/v2q/qq_channel_live/audit/100000
